@@ -13,10 +13,10 @@ Users should be able to:
 
 ### Links
 
-- [👉Live Site URL]()
+- [👉Live Site URL](https://codepapa360.github.io/fylo-landing-page-with-two-column-layout/)
 <br>
 
-- [👉Solution URL]()
+- [👉Solution URL](https://www.frontendmentor.io/solutions/responsive-fylo-landing-page-with-two-column-layout-solution-nC11wmr9kD)
 
 ### Screenshot
 
